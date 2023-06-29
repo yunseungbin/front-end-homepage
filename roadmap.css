@@ -1,0 +1,15 @@
+main {
+  max-width: 100%;
+  border-top: 2px solid black;
+}
+main > h3,
+main > h1 {
+  text-align: center;
+}
+main > h1 {
+  margin: 50px 0;
+  font-size: 60px;
+}
+main > h3 > img {
+  width: 900px;
+}

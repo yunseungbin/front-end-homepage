@@ -1,0 +1,38 @@
+main {
+  max-width: 100%;
+  border-top: 2px solid black;
+}
+main > section {
+  max-width: 750px;
+  margin: 0 auto;
+}
+main > section > h1 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 4.5rem;
+  margin: 10% 0;
+}
+main > section > div.container {
+  width: 745px;
+  margin-top: 30px;
+}
+main > section > div.container > div:first-child {
+  height: 50px;
+  background-color: antiquewhite;
+  border: 2px solid black;
+}
+main > section > div.container > div > h3 {
+  line-height: 20px;
+  margin-left: 25px;
+  font-size: 25px;
+}
+main > section > div.container > div {
+  border: 2px solid black;
+  border-top: none;
+  padding: 15px 0;
+}
+main > section > div.container > div.container-last-chlid > p {
+  line-height: 30px;
+  margin-left: 25px;
+  font-weight: bold;
+}
