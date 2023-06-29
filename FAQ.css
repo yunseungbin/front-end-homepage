@@ -24,7 +24,7 @@ main > section > div.container > div:first-child {
 main > section > div.container > div > h3 {
   line-height: 20px;
   margin-left: 25px;
-  font-size: 25px;
+  font-size: 20px;
 }
 main > section > div.container > div {
   border: 2px solid black;
